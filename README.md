@@ -1,5 +1,4 @@
-# mlops-dsr-batch-43
-FastAPI endpoint for a fruit classifier
+# FastAPI endpoint MLOps
 ![FastAPI Output](screenshot.png)
 
 # Run the app
